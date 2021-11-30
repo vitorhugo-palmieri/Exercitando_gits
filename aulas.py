@@ -11,3 +11,6 @@ print("Testand commit pelo vscode")
 #enviando por outra pessoa pelo vscode 
 #querendo enviar para github
 #vitor hugo alterando via vscode
+
+#mudei a linha
+
