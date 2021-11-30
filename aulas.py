@@ -10,4 +10,5 @@ print("Testand commit pelo vscode")
 #testando enviar por outra pessoa
 #enviando por outra pessoa pelo vscode 
 #querendo enviar para github
+#depois do merge entra master e parte1
 
