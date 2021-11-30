@@ -1,6 +1,7 @@
 
 ## trabalhando na parte 1 vitor hugo
 #alteração 1
+#alterações finalizadas
 
 
 print("Testando o git")
